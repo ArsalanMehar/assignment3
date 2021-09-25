@@ -1,0 +1,14 @@
+//Question 6
+void main(){
+  
+  var fruits = ["apple","banana","mango","orange","stawberry"];
+  
+  for(var i in fruits){
+   
+    
+    
+    print(i);
+  }
+    
+}
+  
